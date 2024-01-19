@@ -1,0 +1,754 @@
+[
+    {
+        "id": 1,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 70,
+        "green_duration": 20,
+        "offset": 25
+    },
+    {
+        "id": 2,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 70,
+        "green_duration": 20,
+        "offset": 25
+    },
+    {
+        "id": 3,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 70,
+        "green_duration": 22,
+        "offset": 55
+    },
+    {
+        "id": 4,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 70,
+        "green_duration": 22,
+        "offset": 55
+    },
+    {
+        "id": 5,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 6,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 7,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 80,
+        "green_duration": 20,
+        "offset": 65
+    },
+    {
+        "id": 8,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 80,
+        "green_duration": 20,
+        "offset": 65
+    },
+    {
+        "id": 9,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 80,
+        "green_duration": 22,
+        "offset": 30
+    },
+    {
+        "id": 10,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 80,
+        "green_duration": 22,
+        "offset": 30
+    },
+    {
+        "id": 11,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 12,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 13,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 60,
+        "green_duration": 24,
+        "offset": 0
+    },
+    {
+        "id": 14,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 60,
+        "green_duration": 24,
+        "offset": 0
+    },
+    {
+        "id": 15,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 60,
+        "green_duration": 22,
+        "offset": 30
+    },
+    {
+        "id": 16,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 60,
+        "green_duration": 22,
+        "offset": 30
+    },
+    {
+        "id": 17,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 18,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 19,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 100,
+        "green_duration": 30,
+        "offset": 20
+    },
+    {
+        "id": 20,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 100,
+        "green_duration": 30,
+        "offset": 20
+    },
+    {
+        "id": 21,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 100,
+        "green_duration": 22,
+        "offset": 60
+    },
+    {
+        "id": 22,
+        "type": "crosswalk",
+        "distance": 18.0,
+        "cycle": 100,
+        "green_duration": 22,
+        "offset": 60
+    },
+    {
+        "id": 23,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 24,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 25,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 26,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 27,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 28,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 29,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 30,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 31,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 90,
+        "green_duration": 30,
+        "offset": 40
+    },
+    {
+        "id": 32,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 90,
+        "green_duration": 30,
+        "offset": 40
+    },
+    {
+        "id": 33,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 90,
+        "green_duration": 30,
+        "offset": 0
+    },
+    {
+        "id": 34,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 90,
+        "green_duration": 30,
+        "offset": 0
+    },
+    {
+        "id": 35,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 36,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 37,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 120,
+        "green_duration": 30,
+        "offset": 25
+    },
+    {
+        "id": 38,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 120,
+        "green_duration": 30,
+        "offset": 25
+    },
+    {
+        "id": 39,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 120,
+        "green_duration": 40,
+        "offset": 70
+    },
+    {
+        "id": 40,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 120,
+        "green_duration": 40,
+        "offset": 70
+    },
+    {
+        "id": 41,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 42,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 43,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 120,
+        "green_duration": 40,
+        "offset": 90
+    },
+    {
+        "id": 44,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 120,
+        "green_duration": 40,
+        "offset": 90
+    },
+    {
+        "id": 45,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 120,
+        "green_duration": 40,
+        "offset": 30
+    },
+    {
+        "id": 46,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 120,
+        "green_duration": 40,
+        "offset": 30
+    },
+    {
+        "id": 47,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 48,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 49,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 140,
+        "green_duration": 50,
+        "offset": 20
+    },
+    {
+        "id": 50,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 140,
+        "green_duration": 50,
+        "offset": 20
+    },
+    {
+        "id": 51,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 140,
+        "green_duration": 45,
+        "offset": 90
+    },
+    {
+        "id": 52,
+        "type": "crosswalk",
+        "distance": 22.0,
+        "cycle": 140,
+        "green_duration": 45,
+        "offset": 90
+    },
+    {
+        "id": 53,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 54,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 55,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 56,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 57,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 58,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 59,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 60,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 61,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 150,
+        "green_duration": 50,
+        "offset": 10
+    },
+    {
+        "id": 62,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 150,
+        "green_duration": 50,
+        "offset": 10
+    },
+    {
+        "id": 63,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 150,
+        "green_duration": 60,
+        "offset": 80
+    },
+    {
+        "id": 64,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 150,
+        "green_duration": 60,
+        "offset": 80
+    },
+    {
+        "id": 65,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 66,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 67,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 75,
+        "green_duration": 20,
+        "offset": 50
+    },
+    {
+        "id": 68,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 75,
+        "green_duration": 20,
+        "offset": 50
+    },
+    {
+        "id": 69,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 75,
+        "green_duration": 25,
+        "offset": 10
+    },
+    {
+        "id": 70,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 75,
+        "green_duration": 25,
+        "offset": 10
+    },
+    {
+        "id": 71,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 72,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 73,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 100,
+        "green_duration": 30,
+        "offset": 40
+    },
+    {
+        "id": 74,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 100,
+        "green_duration": 30,
+        "offset": 40
+    },
+    {
+        "id": 75,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 100,
+        "green_duration": 30,
+        "offset": 90
+    },
+    {
+        "id": 76,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 100,
+        "green_duration": 30,
+        "offset": 90
+    },
+    {
+        "id": 77,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 78,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 79,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 90,
+        "green_duration": 35,
+        "offset": 0
+    },
+    {
+        "id": 80,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 90,
+        "green_duration": 35,
+        "offset": 0
+    },
+    {
+        "id": 81,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 90,
+        "green_duration": 30,
+        "offset": 45
+    },
+    {
+        "id": 82,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 90,
+        "green_duration": 30,
+        "offset": 45
+    },
+    {
+        "id": 83,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 84,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 85,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 86,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 87,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 88,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 89,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 90,
+        "type": "sidewalk",
+        "distance": 150.0
+    },
+    {
+        "id": 91,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 105,
+        "green_duration": 40,
+        "offset": 20
+    },
+    {
+        "id": 92,
+        "type": "crosswalk",
+        "distance": 15.0,
+        "cycle": 105,
+        "green_duration": 40,
+        "offset": 20
+    },
+    {
+        "id": 93,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 105,
+        "green_duration": 40,
+        "offset": 75
+    },
+    {
+        "id": 94,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 105,
+        "green_duration": 40,
+        "offset": 75
+    },
+    {
+        "id": 95,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 96,
+        "type": "sidewalk",
+        "distance": 100.0
+    },
+    {
+        "id": 97,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 80,
+        "green_duration": 25,
+        "offset": 50
+    },
+    {
+        "id": 98,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 80,
+        "green_duration": 25,
+        "offset": 50
+    },
+    {
+        "id": 99,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 80,
+        "green_duration": 30,
+        "offset": 10
+    },
+    {
+        "id": 100,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 80,
+        "green_duration": 30,
+        "offset": 10
+    },
+    {
+        "id": 101,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 102,
+        "type": "sidewalk",
+        "distance": 300.0
+    },
+    {
+        "id": 103,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 180,
+        "green_duration": 70,
+        "offset": 100
+    },
+    {
+        "id": 104,
+        "type": "crosswalk",
+        "distance": 20.0,
+        "cycle": 180,
+        "green_duration": 70,
+        "offset": 100
+    },
+    {
+        "id": 105,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 180,
+        "green_duration": 60,
+        "offset": 10
+    },
+    {
+        "id": 106,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 180,
+        "green_duration": 60,
+        "offset": 10
+    },
+    {
+        "id": 107,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 108,
+        "type": "sidewalk",
+        "distance": 200.0
+    },
+    {
+        "id": 109,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 90,
+        "green_duration": 40,
+        "offset": 0
+    },
+    {
+        "id": 110,
+        "type": "crosswalk",
+        "distance": 24.0,
+        "cycle": 90,
+        "green_duration": 40,
+        "offset": 0
+    },
+    {
+        "id": 111,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 90,
+        "green_duration": 20,
+        "offset": 55
+    },
+    {
+        "id": 112,
+        "type": "crosswalk",
+        "distance": 16.0,
+        "cycle": 90,
+        "green_duration": 20,
+        "offset": 55
+    }
+]
