@@ -1,5 +1,7 @@
 # 歩行者移動時間
 
+## 動作例
+
 ## 実装
 - 言語：
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
