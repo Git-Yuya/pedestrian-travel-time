@@ -1,5 +1,5 @@
 # 歩行者移動時間算出システム
-出発地から目的地までの歩行者移動時間を算出するシステム。
+　信号の制御情報を考慮し、出発地から目的地までの歩行者移動時間を算出する。
 
 ## 動作例
 
@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/-Colab-F9AB00.svg?logo=google%20colab&style=plastic">
 
 ## 各ファイルの説明
-- system.ipynb：出発地から目的地までの歩行者移動時間を計算
+- system.ipynb：出発地から目的地までの歩行者移動時間を算出
 - network.json：歩道ネットワーク情報を格納したファイル
 - network.png：歩道ネットワーク画像
