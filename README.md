@@ -5,8 +5,12 @@
 <img width="315" alt="歩道ネットワーク" src="https://github.com/Git-Yuya/pedestrian-travel-time/assets/84259422/e82e2c94-ae32-47d4-8380-0c90310a28e3">
 
 ## network.jsonファイル
-
-
+　歩道ネットワークの歩道リンク情報や信号の制御情報が格納されている。
+ - id：各リンクの識別番号
+ - type："crosswalk"が横断歩道、"sidewalk"が歩道
+ - cycle：信号の周期 [s]
+ - green_duration：緑信号の継続時間 [s]
+ - offset：0時（ある基準の時刻）から一番最初に緑信号に変化するまでの時間 [s]
 
 ## 動作例
 
